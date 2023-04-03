@@ -1,2 +1,2 @@
-# data-structures
-This Repository contains all learning material I have worked on for Data Structures in python
+# Data-Structures
+This Repository contains all the learning material I have worked on for Data Structures in python.
